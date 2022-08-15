@@ -2,9 +2,8 @@
 
 Hi Solana team! Happy to share Kayo with you today.
 
-In this file, you will find our Figma file that we used to prototype the game extremely quickly, and Unity version with a AI vs AI behavior.
+In this repo, you will find:
+- Our Figma file that we used to prototype the game extremely quickly. It is in a PDF format so that you can go through it easily. It is the core of our experience, as it gives you a full-idea of the concept.
+- A Unity version with a AI vs AI behavior
 
-I invite you to use the Figma file, and launch the prototype from the landing page to discover the full experience!
-
-Default copyright laws apply, meaning that we retain all rights to your source code and no one may reproduce, distribute, or create derivative works from our work.
-
+Hope you enjoy it! And thanks for this great event! :)
